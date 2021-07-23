@@ -1,0 +1,26 @@
+.letter-card {
+    float: left;
+    margin-top: 0;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    width: 25vw;
+    height: 80vh;
+}
+
+.letter-card-body {
+    overflow-y: auto;
+}
+
+.letter-box {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 5%;
+}
+
+.letter {
+    border: 1px solid grey;
+    width: 3.5vw;
+    height: auto;
+    padding: 6% 3%;
+    margin: 8% 5%;
+}

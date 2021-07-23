@@ -1,0 +1,12 @@
+.nav-header {
+    background-image: linear-gradient(to top, #ffffff, #f0f0f0);
+    padding: 0;
+    height: 10vh;
+}
+
+.logo-img {
+    margin: 2vh 20vh;
+    max-height: 8vh;
+    width: auto;
+    height: auto;
+}

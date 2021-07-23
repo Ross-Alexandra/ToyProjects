@@ -1,0 +1,1 @@
+from hangman.hangman.game import _play_game as play_game

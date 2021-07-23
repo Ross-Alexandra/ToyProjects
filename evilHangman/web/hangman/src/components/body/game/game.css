@@ -1,0 +1,16 @@
+#game-board {
+    flex-grow: 1;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid grey;
+    margin-right: 2.5%;
+    max-width: 70vw;
+    max-height: 80vh;
+}
+
+.game-letter {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}

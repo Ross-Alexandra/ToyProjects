@@ -1,0 +1,2 @@
+class HangmanException(Exception):
+    pass
